@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# 打印list:
-names = ['Michael', 'Bob', 'Tracy']
+# Print Names
+names = ['Michael', 'Leo', 'Andrew']
 for name in names:
-    print(name)
+    print(name, end=" ")
 
-# 打印数字 0 - 9
+# Print 0 to 9
 for x in range(10):
     print(x)
